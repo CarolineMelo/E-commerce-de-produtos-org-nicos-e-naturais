@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    flex-flow: row wrap;
+    height:60%;
+    margin: 0px;
+    padding: 0px;
+    background: #54043c;
+    
+
+}
